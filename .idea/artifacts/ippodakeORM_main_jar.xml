@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact name="ippodakeORM.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ippodakeORM_main_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ippodakeORM.jar">
+        <element id="module-output" name="ippodakeORM.main" />
+      </element>
+      <element id="library" level="project" name="Gradle: com.google.guava:guava:33.4.8-jre" />
+      <element id="library" level="project" name="Gradle: com.google.errorprone:error_prone_annotations:2.36.0" />
+      <element id="library" level="project" name="Gradle: org.jspecify:jspecify:1.0.0" />
+      <element id="library" level="project" name="Gradle: com.google.guava:failureaccess:1.0.3" />
+      <element id="library" level="project" name="Gradle: com.google.j2objc:j2objc-annotations:3.0.0" />
+      <element id="library" level="project" name="Gradle: org.projectlombok:lombok:1.18.38" />
+      <element id="library" level="project" name="Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" />
+    </root>
+  </artifact>
+</component>

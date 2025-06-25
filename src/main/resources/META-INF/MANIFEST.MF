@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: guava-33.4.8-jre.jar error_prone_annotations-2.36.0.jar jspe
+ cify-1.0.0.jar failureaccess-1.0.3.jar j2objc-annotations-3.0.0.jar lom
+ bok-1.18.38.jar listenablefuture-9999.0-empty-to-avoid-conflict-with-gu
+ ava.jar
+
